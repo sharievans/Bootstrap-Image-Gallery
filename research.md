@@ -1,5 +1,7 @@
 
 What is Bootstrap Image Gallery?
+http://blueimp.github.com/Bootstrap-Image-Gallery/
+
 ```html
 Bootstrap Image Gallery is an extension to the Modal dialog of Twitter's Bootstrap toolkit, to ease navigation between a set of gallery images.
 It features mouse and keyboard navigation, transition effects, fullscreen mode and slideshow functionality.
